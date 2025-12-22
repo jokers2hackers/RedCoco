@@ -1,4 +1,4 @@
-# CoCoOS - Modern OS 
+# COCO-OS - Modern OS 
 
 ## Description
-CoCoOS is a Hobby OS Project focused for Modern Systems.
+COCO-OS is a Hobby OS Project.
