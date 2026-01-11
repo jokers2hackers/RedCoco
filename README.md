@@ -1,4 +1,4 @@
-# COCO-OS - Modern OS 
+# RedCoco - Modern OS 
 
 ## Description
-COCO-OS is a Hobby OS Project.
+RedCoco is Hobby OS Project
